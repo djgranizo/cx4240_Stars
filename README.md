@@ -1,2 +1,3 @@
 # cx4240_Stars
-machine learning clustering project
+Machine learning clustering project
+
